@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Hi, I’m Kunal Dixit — Full-Stack Developer :
 🔭 Working on scalable backend & full-stack systems<br>🌱 Learning cloud-native & event-driven architectures<br>💬 Ask me about Backend engineering with Nest.js & Node.js, microservices, Kafka, event-driven systems, databases, and AI integrations.<br>⚡ Fun fact: I love optimizing systems for scale
 
 
